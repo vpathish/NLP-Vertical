@@ -1,1 +1,1 @@
-web: gunicorn nlp1.wsgi
+web: gunicorn CCMS.wsgi --log-file -
